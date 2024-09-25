@@ -8,7 +8,7 @@ Welcome to the Web Dev Mini Projects repository! This collection showcases a var
   -Getting Started
     1. To get started with the projects:
         Clone the repository:
-                  bash Copy code "git clone https://github.com/<HARSH-MADHAVAN>/webDevMiniProjects.git"
+                  bash Copy code "git clone https://github.com/HARSH-MADHAVAN/webDevMiniProjects.git"
     2. You can just navigate to the desired project directory.
     3. Open the index.html file in your browser to view the project.
 
